@@ -1,4 +1,4 @@
-# DataAnalysisPython
+# Data Analysis using Python
 Data Analysis using Python and Pandas
 
 ## Scope
