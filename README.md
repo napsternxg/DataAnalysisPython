@@ -15,6 +15,7 @@ Data Analysis using Python and Pandas
 * Jupyter notebook - comes in anaconda package
 * pandas, matplotlib, numpy, seaborn - comes in anaconda package
 * [pandas-datareader](https://github.com/pydata/pandas-datareader)
-install using `conda install pandas-datareader`
+
+Install using `conda install pandas-datareader seaborn`
 
 
