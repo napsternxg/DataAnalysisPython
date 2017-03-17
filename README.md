@@ -18,4 +18,7 @@ Data Analysis using Python and Pandas
 
 Install using `conda install pandas-datareader seaborn`
 
+## Documentation
 
+* Pandas: http://pandas.pydata.org/pandas-docs/stable/index.html
+* Seaborn: http://seaborn.pydata.org/index.html
