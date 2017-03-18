@@ -22,3 +22,9 @@ Install using `conda install pandas-datareader seaborn`
 
 * Pandas: http://pandas.pydata.org/pandas-docs/stable/index.html
 * Seaborn: http://seaborn.pydata.org/index.html
+
+
+## Useful resources:
+* Official pandas introduction: http://pandas.pydata.org/pandas-docs/version/0.19.2/10min.html
+* Detailed intro to pandas: http://nbviewer.jupyter.org/gist/TomAugspurger/2457b5debf072ac0318d3d14e63145d5
+* Lots of exercises to practice pandas: https://github.com/guipsamora/pandas_exercises
